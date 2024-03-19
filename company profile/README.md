@@ -22,5 +22,5 @@ cd companyprofile
 
 
 *Output*
-# open the index.html file using a browser to see the output by double click.
-# If you are using vscode click on run at the menu bar on the left, then select web browser.
+ open the index.html file using a browser to see the output by double click.
+If you are using vscode click on run at the menu bar on the left, then select web browser.
