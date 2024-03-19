@@ -1,7 +1,9 @@
 *Assignment 1 Creativity and understanding of HTML and CSS by designing unique landing pages.*
+
 Landing page available in company profile folder.
 
 *Assignment 2 React.js Component Creation*
+
  React Reusable Components available in Reactcomponents folder.
 
 *Assignment 3 Create a RESTful API using express.js and create a database and index in MongoDB*
