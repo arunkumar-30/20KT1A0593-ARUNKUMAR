@@ -11,10 +11,11 @@ folder- companyprofile -> index.html
 folder- companyprofile -> style.css
 folder- companyprofile -> script.js
 
-# Create folder called companyprofile
+*Create folder called companyprofile*
 mkdir companyprofile
-# Change directory to companyprofile
+*Change directory to companyprofile*
 cd companyprofile
+
 # open index.html //place html code in this file
 # open style.js //place css code in this file
 # open script.js //place java script in this file
