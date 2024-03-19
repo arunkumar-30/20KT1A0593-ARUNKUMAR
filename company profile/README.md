@@ -4,7 +4,7 @@
 --> operating system
 --> vs code
 
-Structure of the project*
+*Structure of the project*
 
 folder- companyprofile -> images folder -> images(.jpg & .png) 
 folder- companyprofile -> index.html
