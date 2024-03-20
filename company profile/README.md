@@ -24,3 +24,4 @@ cd companyprofile
 *Output*
  open the index.html file using a browser to see the output by double click.
 If you are using vscode click on run at the menu bar on the left, then select web browser.
+![Screenshot 2023-11-09 170413](https://github.com/arunkumar-30/20KT1A0593-ARUNKUMAR/assets/113409292/785e0704-1bf2-438f-8cec-e59132e41974)
