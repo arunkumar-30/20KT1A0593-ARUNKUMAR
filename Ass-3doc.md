@@ -39,3 +39,11 @@ node index.js
  --> It will redirect to localhost:300
 --> There you can see *New Movie Added* followed by the links View MoviesData, Add MoviesData, Update MoviesData
 --> By using this links you can perform CURD operations
+
+
+# Output
+
+![movie1](https://github.com/arunkumar-30/20KT1A0593-ARUNKUMAR/assets/113409292/d83850c5-016b-4993-b7a7-02d78911a130)
+![movie 2](https://github.com/arunkumar-30/20KT1A0593-ARUNKUMAR/assets/113409292/bacca348-22c2-40f1-a1e3-ea4ad9046e6d)
+![movie3](https://github.com/arunkumar-30/20KT1A0593-ARUNKUMAR/assets/113409292/845de0db-c84c-4c20-8e35-3ac0b6dc2774)
+![movie4](https://github.com/arunkumar-30/20KT1A0593-ARUNKUMAR/assets/113409292/0d06af46-e93c-4057-8289-50c8c7d01356)
