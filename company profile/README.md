@@ -24,6 +24,15 @@ cd companyprofile
 *Output*
  open the index.html file using a browser to see the output by double click.
 If you are using vscode click on run at the menu bar on the left, then select web browser.
+
+
+
+#Demo Link 
+https://kawayritechsolutions.netlify.app/
+
+
+
+
 ![home](https://github.com/arunkumar-30/20KT1A0593-ARUNKUMAR/assets/113409292/967ba4ea-abaa-48c5-aae5-7120ecc8bc2b)
 ![page2](https://github.com/arunkumar-30/20KT1A0593-ARUNKUMAR/assets/113409292/1ac37266-cc39-4856-97dd-4aec4a77d12f)
 ![wp3](https://github.com/arunkumar-30/20KT1A0593-ARUNKUMAR/assets/113409292/7e8cb7d9-1da9-466a-b7c5-e95bb3830663)![wp4](https://github.com/arunkumar-30/20KT1A0593-ARUNKUMAR/assets/113409292/2d0e965f-11d8-4614-88cf-307d1b84ea0a)
