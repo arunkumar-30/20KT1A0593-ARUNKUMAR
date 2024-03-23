@@ -1,0 +1,53 @@
+Database Setup:   
+
+Open MongoDb and Click on Connect   
+
+Now Open MONGOSH
+
+Step:1  
+Create a new MongoDB database called myDatabase by using following Command.   
+---> use myDatabase  
+
+
+Step:2  
+Collection Creation:  
+Create a collection named users within the myDatabase using following command  
+---> db.createCollection("users")   
+
+Step:3 Check the Collections  
+
+---> show collections  
+Step:4 Document Insertion  
+You can insert document by using insertone or insertmany   
+--->  db.users.insertOne({"name":"Chari","email":"chari@gmail.com","age":50})   
+--->  db.users.insertOne({"name":"Rani","email":"rani@gmail.com","age":29})   
+--->  db.users.insertOne({"name":"Vani","email":"vani@gmail.com","age":39})    
+--->  db.users.insertOne({"name":"Rajesh","email":"rajesh@gmail.com","age":30})   
+
+Step:5 Querying   
+For all users from users collection
+---> db.users.find()   
+
+Users with an age greater than or equal to 30   
+---> db.users.find({ age: { $gte: 30 } })   
+
+Step:6 Update Operation   
+Update the age of a user chari with his email address chari@gmail.com use the following command   
+db.users.updateOne(
+   { email: "chari@gmail.com" },
+   { $set: { age: 15 } }
+)    
+
+It gives the acknowledgement   
+Then You can Check Wheather modification done or not by using command ---> db.users.find({ name: "Chari" })   
+
+Step:7 Deletion Operation   
+Suppose you want to delete the user with the email "chari@gmail.com" use the following command   
+---> db.users.deleteOne({ email: "chari@gmail.com" })   
+It Gives Acknowledgement   then you check users data using db.users.find() command   
+
+Step:8 Index Creation    
+ Creation of index on the email field of the users collection by using following command   
+---> db.users.createIndex({ email: 1 })   
+
+
