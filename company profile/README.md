@@ -16,8 +16,8 @@ mkdir companyprofile
 *Change directory to companyprofile*
 cd companyprofile
 
- *open index.html (place html code in this file)*
- *open style.js (place css code in this file)*
+ *open index.html (place html code in this file) \n
+ *open style.js (place css code in this file) \n
  *open script.js (place java script in this file)*
 
 
