@@ -8,7 +8,7 @@ React Reusable Components available in Reactcomponents folder.
 
 # Assignment 3 
 *Create a RESTful API using express.js and create a database and index in MongoDB*
-RESTful API using Express.js on Movie Api application. (main file is index.js)
+RESTful API using Express.js available in Api folder
 
 # Assignment 4 
 *Creating a Database Using MongoDB and Mongosh*
